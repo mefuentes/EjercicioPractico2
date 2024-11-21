@@ -1,0 +1,11 @@
+<form (ngSubmit)="agregarComentario()">
+    <input
+      type="text"
+      [(ngModel)]="nuevoComentario"
+      name="comentario"
+      placeholder="Escribe tu comentario"
+      required
+    />
+    <button type="submit">Agregar</button>
+  </form>
+  

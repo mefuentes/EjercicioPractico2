@@ -1,0 +1,48 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "titulo": "Ola de calor extremo en el norte de África",
+        "contenido": "Una ola de calor sin precedentes afecta al norte de África, alcanzando temperaturas superiores a los 50°C en varias ciudades como Argel y Túnez. Los expertos advierten sobre los riesgos de deshidratación y la propagación de incendios forestales.",
+        "autor": "Ana García",
+        "fechaPublicacion": "2024-11-21"
+      },
+      {
+        "id": 2,
+        "titulo": "Tormentas intensas en el sudeste asiático",
+        "contenido": "El sudeste asiático enfrenta tormentas severas que han provocado inundaciones en Tailandia y Vietnam. Las lluvias continúan, y se espera que la situación empeore en los próximos días, afectando aún más a la región.",
+        "autor": "Luis Pérez",
+        "fechaPublicacion": "2024-11-20"
+      },
+      {
+        "id": 3,
+        "titulo": "Nevadas históricas en los Alpes suizos",
+        "contenido": "Los Alpes suizos han recibido una cantidad récord de nieve, lo que ha provocado caos en el transporte y alertas por avalanchas. Se recomienda a los turistas que eviten las zonas de montaña debido a los riesgos de seguridad.",
+        "autor": "Claudia Martín",
+        "fechaPublicacion": "2024-11-19"
+      }
+    ],
+    "comentarios": [
+      {
+        "id": 1,
+        "postId": 1,
+        "autor": "Pedro Ruiz",
+        "contenido": "Es impresionante ver cómo el clima sigue cambiando de manera tan drástica. La situación en el norte de África es realmente preocupante.",
+        "fechaCreacion": "2024-11-21"
+      },
+      {
+        "id": 2,
+        "postId": 1,
+        "autor": "Laura Fernández",
+        "contenido": "El calor en África está siendo insoportable, es urgente que se tomen medidas para proteger a las personas más vulnerables.",
+        "fechaCreacion": "2024-11-21"
+      },
+      {
+        "id": 3,
+        "postId": 2,
+        "autor": "Juan Pérez",
+        "contenido": "Las inundaciones en Tailandia siempre son un problema recurrente. Espero que se implementen soluciones más efectivas para evitar estas tragedias.",
+        "fechaCreacion": "2024-11-20"
+      }
+    ]
+  }
